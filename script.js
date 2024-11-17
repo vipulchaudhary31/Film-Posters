@@ -11,8 +11,8 @@ var swiper = new Swiper('.swiper-container.two', {
   cardsEffect: {
     slideShadows: false,        // Enable/disable slide shadows
     rotate: true,               // Enable/disable rotation
-    perSlideRotate: 3,         // Rotation angle for each slide (degrees)
-    perSlideOffset: 6,         // Offset distance for each slide (px)
+    perSlideRotate: 4,         // Rotation angle for each slide (degrees)
+    perSlideOffset: 4,         // Offset distance for each slide (px)
     transformEl: null,         // CSS selector of the element to transform
     limitRotation: true,       // Limit maximum rotation to perSlideRotate value
     rotate: true,              // Enable/disable rotation effect
