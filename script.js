@@ -47,11 +47,11 @@ var swiper = new Swiper('.swiper-container.two', {
   watchSlidesProgress: true,
   watchSlidesVisibility: true,
 
-  // Autoplay (optional)
-  autoplay: {
-    delay: 2000,
-    disableOnInteraction: false,
-  },
+//  // Autoplay (optional)
+//  autoplay: {
+//    delay: 2000,
+//    disableOnInteraction: false,
+//  },
 
   // Breakpoints for responsive design
   breakpoints: {
