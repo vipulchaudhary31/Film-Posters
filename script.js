@@ -3,7 +3,7 @@ var swiper = new Swiper('.swiper-container.two', {
   effect: 'cards',
   grabCursor: true,
   loop: true,
-   initialSlide: 2,
+   initialSlide: 11,
   centeredSlides: true,
   slidesPerView: 'auto',
 
